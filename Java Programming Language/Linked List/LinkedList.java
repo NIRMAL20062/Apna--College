@@ -5,7 +5,7 @@ public class LinkedList {
         int data;     // Stores the value
         Node next;   // Points or reference to the next node  Why Node Type?:
                      //  The next field is declared as Node because it needs to refer to another instance of the same Node class. This is a self-referential structure, where a class contains a field that refers to an object of its own type.
-                     // This self-reference is what makes it possible to chain multiple nodes together to form a linked list.
+                      // This self-reference is what makes it possible to chain multiple nodes together to form a linked list.
 
         // Constructor to initialize a node
         Node(int Data) {
