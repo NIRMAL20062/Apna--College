@@ -1,7 +1,7 @@
 class TreeNode {
     int val;
-    TreeNode left;
-    TreeNode right;
+    TreeNode left;   // Automatically initialized to null
+    TreeNode right;  // Automatically initialized to null
 
     TreeNode(int val) {
         this.val = val;
