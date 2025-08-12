@@ -5,6 +5,8 @@
 
 ---
 
+Last updated: August 12, 2025
+
 ## **📜 The Saga of My Suffering (a.k.a Progress)**  
 
 ### **Phase 1: Java Basics – "Hello World" to "Hello… why is this NullPointerException?"**  
@@ -75,3 +77,6 @@ If you find this repo:
 - **Open an issue** (if you spot a bug… or a cry for help).  
 - **Send coffee** (I’m running on fumes).  
 
+
+
+<!-- hello -->
