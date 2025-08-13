@@ -4,7 +4,7 @@ public class FastExponent {
         int exponent = 10;
         System.out.println("Result: " + fastExponent(base, exponent));
     }
-    public static int fastExponent(int base, int exponent) {
+    public static int fastExponent(int base, int exponent) {     
         int result = 1;
         while (exponent > 0) {
             if ((exponent & 1) == 1) { // Check if the last bit is set

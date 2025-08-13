@@ -29,6 +29,7 @@ public class Bit_Wise_Operators {
 // working of bitwise NOT is that it flips all the bits of the number.
 // For example, if the binary representation of 5 is 0101, then the bitwise NOT of 5 will be 1010, which is -6 in two's complement representation.
 // more details: then 1010 is subtracted from 1111 (all 1s) to get 0000, which is the two's complement representation of -6.
+//  ~x = -x - 1.
 
 // ? 5. Left Shift (<<): Shifts the bits of a number to the left by a specified number of positions, filling the rightmost bits with 0s.
 // Example: 5 << 1 = 10 (0101 << 1 = 1010)
