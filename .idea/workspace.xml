@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe46ca2c-97cf-4461-8096-757f83ed8778" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Advanced Pattern/Hollow_Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Advanced Pattern/Hollow_Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Advanced Pattern/Inverted_n_Rotated_Half_Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Advanced Pattern/Inverted_n_Rotated_Half_Pyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Array_as_Function_Argument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Array_as_Function_Argument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Assignment/Assignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Assignment/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Assignment/Rotate_then_index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Assignment/RotatedArraySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Assignment/RotatedArraySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Assignment/Triplet_Return.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Assignment/Triplet_Return.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Binary_Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Binary_Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Input_Output.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Input_Output.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Intro_Creating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Intro_Creating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Kadane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/LargestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/LargestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Largest_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Linear_Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Linear_Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/MaxSubArray_Prefix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/PairsArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/PairsArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Rain_Water_Trapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Rain_Water_Trapping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/ReverseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/StockProfitOneTransaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/StockProfitOneTransaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/SubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 1/SubArray_Brute_Force.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/Assignment/PrintingRepeatingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/Assignment/PrintingRepeatingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/Assignment/Sum_Of_Row.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/Assignment/Sum_Of_Row.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/Assignment/TransposeMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/Assignment/TransposeMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/Creating_2D_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/Creating_2D_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/DiagonalSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/DiagonalSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/SortedMatrixSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/SortedMatrixSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Array 2/SpiralMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/ArrayListOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/ArrayListOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/CollectionsMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/CollectionsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/DimentionalArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/Intro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/MaxInArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/MaxStoredWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/MaxStoredWater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/PairSumRotated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/PairSumRotated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/PairSumSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/PairSumSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/PrintingArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/PrintingArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/SwapArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/SwapArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/TargetSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/TwoDimentionalArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/ArrayList/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/ArrayBackTracking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/ArrayBackTracking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/CountNQueen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/CountNQueen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/GridWayLinearTimeComplexity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/GridWays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/GridWays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/N_Queen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/N_Queen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/N_Queens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/N_Queens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/OneSolutionNQueen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/OneSolutionNQueen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/PrintAllPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/PrintAllPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/SubsetOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BackTracking/SubsetOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BST/BuildBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BST/BuildBST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BST/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/EasyLevelOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/EasyLevelOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/HeightOfBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/HeightOfBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/InorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/InorderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/LevelorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/LevelorderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/OptimizedLevelOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/PostorderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/Preorder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/Preorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/PreorderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/SumOfNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/SumOfNodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/TotalNodesInBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_1/TotalNodesInBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/BST/BuildBST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/KthAncestor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/KthAncestor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/KthLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/KthLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/LowestCommonAncestor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/LowestCommonAncestor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/MinDistanceBetweenNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/MinDistanceBetweenNodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/NodeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/Subtree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/Subtree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/SumTreeTransform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/SumTreeTransform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/TopView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/TopView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/TreeDiameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/TreeDiameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/TreeDiameter_n.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/TreeDiameter_n.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/BinaryTree/BinaryTree_2/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Bit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Bit_Wise_Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Bit_Wise_Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Count_number_of_set_bits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Count_number_of_set_bits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/FastExponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/FastExponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Get_Bit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Get_Bit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Power_of_two.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Power_of_two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Q1_Check_Even_Odd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Bit Manupulation/Q1_Check_Even_Odd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/Assignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/If_Else.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/If_Else.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/IncomeTaxCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/IncomeTaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/SwitchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/SwitchExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/Ternary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Conditional_Statements/Ternary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/DevideAndConcur/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/DevideAndConcur/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/DevideAndConcur/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/DevideAndConcur/SearchRotatedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/DevideAndConcur/SearchRotatedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Binary_To_Decimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Binary_To_Decimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Decimal_To_Binary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Decimal_To_Binary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/FunctionOverloadingDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/FunctionOverloadingDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/InbuiltFunctionsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Method_Scope$Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Method_Scope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Method_Scope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Number_system_Conversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Parametric_Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Parametric_Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Primes_in_Range.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Primes_in_Range.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Product_of_a_b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Function/Product_of_a_b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Fx/DatingFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Fx/DatingFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/FractionalNapSac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/FractionalNapSac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/IndianCoinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/IndianCoinChange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/Job$Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/Job.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/JobScheduler$Job.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/JobScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/JobScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/MaxAcivityWhenNotSorted$Classroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/MaxAcivityWhenNotSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/MaxAcivityWhenNotSorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/MaxActivity$Classroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/MaxActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/MaxActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/MaxLengthPairChain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/MaxLengthPairChain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/MinSumAbsDiff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Greedy Algorithm/MinSumAbsDiff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Java Programming Language/Conditional_Statements/Assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java Programming Language/Java Programming Language/Conditional_Statements/Assignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Java_Operators/Arithmatic_Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Java_Operators/Arithmatic_Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Java_Operators/Assignment_Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Java_Operators/Assignment_Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Java_Operators/Logical_Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Java_Operators/Logical_Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Java_Operators/Relational_Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Java_Operators/Relational_Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array1/FindMissingAndRepeatedValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array1/FindMissingAndRepeatedValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array1/MissingNumbersRepeatedValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array1/MissingNumbersRepeatedValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array1/Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array1/Power.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array1/SingleNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array1/SingleNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array1/profitLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array1/profitLoss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/ContainerWithMostWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/ContainerWithMostWater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/FourSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/FourSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/MaxSubArraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/MaxSubArraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/ThreeSum$ThreeSumBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/ThreeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/ThreeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/TwoDArraySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array2/TwoDArraySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array3/NextPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/LeetCode/Array3/NextPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/DoublyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/DoublyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/DoublyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/JavaCollectionFramework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/JavaCollectionFramework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/LinkedList2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/LinkedList2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/SortColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Linked List/SortColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/Break_n_Continue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/Break_n_Continue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/Do_While.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/Do_While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/Live_Lecture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/Live_Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/Reversing_Digit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/Reversing_Digit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/While.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Loops/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Abstraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Access Modifier/AccessModifiersExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Access Modifier/AnotherPackageAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Access Modifier/SamePackageAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Access_Modifiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Access_Modifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Constructors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Constructors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Encapsulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Getter_Setter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Getter_Setter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Inheritance$GraduateStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Inheritance/Polymorfism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Inheritance/Syntax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/OPPS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/OPPS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Packages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Packages_user_defined.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Packages_user_defined.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Pen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Shallow_and_Deep_copy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Shallow_and_Deep_copy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/com/bardx/utils/Packages_user_defined.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/OOPS/com/bardx/utils/Packages_user_defined.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Pattern/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Pattern/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Queue/Circular_Queue_Using_Array$Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Queue/Circular_Queue_Using_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Queue/Circular_Queue_Using_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Queue/Queue_Using_Array$Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Queue/Queue_Using_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Queue/Queue_Using_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/Concepts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/Concepts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/FriendPairingProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/PrintBinaryString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/PrintBinaryString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/RemoveDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/RemoveDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/RemoveSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/SumOfAllBinaryString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/Tiling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Recursion/Tiling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/Assignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/CountingSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/InBuiltSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/InBuiltSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Sorting Algorithm/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/PushAtBottom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/PushAtBottom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/ReverseStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/ReverseStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementArrayList_$Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementArrayList_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementArrayList_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementLL$Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementLL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementLLOOPS$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementLLOOPS$Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementLLOOPS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StackImplementLLOOPS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StockSpan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Stack/StockSpan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/BalancedStringPartition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Basic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Concatenation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Concatenation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Convert_Letter_To_Capital.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Convert_Letter_To_Capital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/GetShortestPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/GetShortestPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Input_Output.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Input_Output.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Lexicographically_Largest_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Lexicographically_Largest_String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/RemoveDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/RemoveSub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/StringLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/StringLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/String_Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/String_Builder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/String_Compression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/String_Compression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/String_Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/String_Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/String_Function2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/String_Function2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/SubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/String/SubString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Assignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Data_Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Data_Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/JavaBasics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/JavaBasics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Type_Casting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Type_Casting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Type_Promotion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Type_Promotion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Type_conversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programming Language/Vaiables and Data-Types/Type_conversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/X.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="31bFTXWMqNQZ3eRxWrq4pqlNLmy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Binary_Search.executor": "Run",
+    "Application.Concepts.executor": "Run",
+    "Application.PushAtBottom.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kumar/OneDrive/Desktop/Apna--College"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe46ca2c-97cf-4461-8096-757f83ed8778" name="Changes" comment="" />
+      <created>1755784873621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755784873621</updated>
+    </task>
+    <servers />
+  </component>
+</project>
