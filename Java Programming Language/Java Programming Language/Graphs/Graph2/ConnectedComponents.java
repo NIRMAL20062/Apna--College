@@ -42,6 +42,7 @@ public class ConnectedComponents {
 
     public static void main(String[] args) {
         int V = 7; // As seen in your image (nodes 0-3 and nodes 4-6)
+        @SuppressWarnings("unchecked")
         ArrayList<Edge>[] graph = new ArrayList[V];
         for (int i = 0; i < V; i++) graph[i] = new ArrayList<>();
 

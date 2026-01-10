@@ -1,6 +1,5 @@
 public class Assignment_Operator {
     public static void main(String[] args) {
-        int a = 10;
         int b = 20;
         int c = 0; // Initialize c before using +=
         c += 10; // Correct usage of assignment operator

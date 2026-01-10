@@ -30,7 +30,7 @@ public class LevelorderTraversal {
     public static void levelOrderPrint(Node root) {
         if (root == null) return;
 
-        Queue<Node> queue = new LinkedList<>();
+        Queue<Node> queue = new java.util.LinkedList<>();
         queue.offer(root);
 
         while (!queue.isEmpty()) {

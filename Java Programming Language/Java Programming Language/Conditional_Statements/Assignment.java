@@ -28,7 +28,7 @@ public class Assignment {
             System.out.println("You don't have a fever.");
         }
 
-        {int a=63,b=36;boolean x= (a<b)?true:false;int y= (a>b)?a:b;}
+        {}
 
     }
 }

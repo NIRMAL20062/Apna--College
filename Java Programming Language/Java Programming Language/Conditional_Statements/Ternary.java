@@ -5,7 +5,7 @@ public class Ternary {
         Scanner sc = new Scanner(System.in);
 
         // Ternary operator for simple conditional logic
-        int var = (5 > 3) ? 5 : 3;
+        int var = 5;
         System.out.println(var); // Output: 5
 
         // Input to check if a number is even or odd

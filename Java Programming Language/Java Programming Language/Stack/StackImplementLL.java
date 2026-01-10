@@ -1,7 +1,4 @@
-import java.util.*;
 public class StackImplementLL {
-
-
 
 	static class Node{
 		int Data ;
@@ -31,16 +28,16 @@ public class StackImplementLL {
 
 
 	static class Stack {
-		static Node head = null; // initializing the head of the stack as null 
+		Node head = null; // initializing the head of the stack as null 
 	
 
 		// Making a isEmpty function
-		public static boolean isEmpty() {
+		public boolean isEmpty() {
 			return head == null;
 		}
 
 		// Making a push function
-		public static void push(int data) {
+		public void push(int data) {
 			Node newNode = new Node(data);
 			if (head == null) {
 				head = newNode;
@@ -51,7 +48,7 @@ public class StackImplementLL {
 		}
 
 		// Making a pop function
-		public static int pop() {
+		public int pop() {
 			if (isEmpty()) {
 				return -1; // Stack is empty
 			} else {
@@ -62,7 +59,7 @@ public class StackImplementLL {
 		}
 
 		// Making a peek function
-		public static int peek() {	
+		public int peek() {	
 			if (isEmpty()) {
 				return -1; // Stack is empty
 			} else {

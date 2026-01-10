@@ -24,7 +24,7 @@ public class While {
 
         while (i < 5) {
             System.out.print(i + " "); // Print on the same line
-            i = ++i; // Increment i
+            i++; // Increment i
             // i = i++; // This will not work as expected
             counter++;
         }

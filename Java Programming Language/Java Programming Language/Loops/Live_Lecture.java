@@ -1,8 +1,7 @@
-import java.util.Scanner;
+
 
 public class Live_Lecture {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
 
 
 

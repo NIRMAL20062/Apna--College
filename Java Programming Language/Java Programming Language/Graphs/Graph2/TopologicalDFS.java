@@ -76,6 +76,7 @@ public class TopologicalDFS {
          */
         
         int V = 6;
+        @SuppressWarnings("unchecked")
         ArrayList<Edge>[] graph = new ArrayList[V];
         createGraph(graph);
 

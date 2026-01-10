@@ -45,6 +45,7 @@ public class GraphPath {
            2 ----> 4 ------|
         */
         int v = 5; // Number of vertices
+        @SuppressWarnings("unchecked")
         ArrayList<Edge>[] graph = new ArrayList[v];
         for (int i = 0; i < v; i++) {
             graph[i] = new ArrayList<>();

@@ -37,6 +37,7 @@ public class GraphAllPaths {
            4 -> 1
         */
         int V = 6;
+        @SuppressWarnings("unchecked")
         ArrayList<Edge>[] graph = new ArrayList[V];
         for (int i = 0; i < V; i++) {
             graph[i] = new ArrayList<>();
