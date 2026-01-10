@@ -1,4 +1,4 @@
-package com.bardx.utils;
+
 public class Packages_user_defined {
     public static void main(String[] args) {
         System.out.println("Package is working fine!");

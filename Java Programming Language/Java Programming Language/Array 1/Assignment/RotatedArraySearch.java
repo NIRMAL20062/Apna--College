@@ -1,3 +1,5 @@
+package Assignment;
+
 /* public class  Rotate_then_index {
     public static void main(String[] args) {
         int[] arr = {0,1, 2, 4, 5, 6, 7};

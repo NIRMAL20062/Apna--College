@@ -12,6 +12,12 @@ public class Assignment {
     }
 
 
+    private static char[] find_index(int[] arr2, int i, int j) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'find_index'");
+    }
+
+
     // Q1.
     public static boolean check_number_appear_twice(int[] array){
         for (int i = 0; i < array.length; i++) {

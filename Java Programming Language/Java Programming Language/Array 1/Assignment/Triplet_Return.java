@@ -1,3 +1,5 @@
+package Assignment;
+
 import java.util.*;
 
 public class Triplet_Return {
