@@ -2,6 +2,7 @@ package Graphs.Graph4;
 
 import java.util.*;
 
+// this code use for finding Minimum Spanning Tree using Prim's Algorithm
 public class PrimsAlgorithm {
     static class Edge {
         int src, dest, wt;

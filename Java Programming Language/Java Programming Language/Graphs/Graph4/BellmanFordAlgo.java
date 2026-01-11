@@ -35,7 +35,7 @@ public class BellmanFordAlgo {
                     int wt = e.wt;
 
                     // Relaxation step
-                    if (dist[u] != Integer.MAX_VALUE && dist[u] + wt < dist[v]) {
+                    if (dist[u] != Integer.MAX_VALUE && dist[u] + wt < dist[v]) {  // Avoid overflow of Integer.MAX_VALUE 
                         dist[v] = dist[u] + wt;
                     }
                 }
