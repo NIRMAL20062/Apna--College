@@ -31,7 +31,7 @@ public class PrimsAlgorithm {
 
     public static void prims(ArrayList<Edge>[] graph) {
         boolean vis[] = new boolean[graph.length]; //
-        PriorityQueue<Pair> pq = new PriorityQueue<>(); //
+        PriorityQueue<Pair> pq = new PriorityQueue<>(); // min-heap
         
         // Start with node 0
         pq.add(new Pair(0, 0));
@@ -41,6 +41,7 @@ public class PrimsAlgorithm {
         while (!pq.isEmpty()) {
             Pair curr = pq.remove();
             
+            // If not visited
             if (!vis[curr.v]) {
                 vis[curr.v] = true;
                 finalCost += curr.cost;

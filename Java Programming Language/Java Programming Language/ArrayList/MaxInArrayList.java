@@ -1,3 +1,5 @@
+package ArrayList;
+
 public class MaxInArrayList {
 	
 	public static void main(String[] args) {

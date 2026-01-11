@@ -1,3 +1,5 @@
+package ArrayList;
+
 public class SwapArrayList {
 	public static void main(String[] args) {
 		// Create an ArrayList of integers

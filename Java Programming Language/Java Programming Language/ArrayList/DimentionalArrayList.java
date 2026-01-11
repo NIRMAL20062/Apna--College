@@ -1,3 +1,5 @@
+package ArrayList;
+
 public class DimentionalArrayList {
 	public static void main(String[] args) {
 		// Create a 2D ArrayList

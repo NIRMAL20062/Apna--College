@@ -1,3 +1,5 @@
+package ArrayList;
+
 public class PrintingArrayList {
 	public static void main(String[] args) {
 		// Create an ArrayList of Strings
